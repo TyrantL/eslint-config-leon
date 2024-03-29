@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-leon",
+  "version": "1.0.0",
+  "description": "personal eslint config best practices",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint eslint-config eslint-config-react eslint-typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/eslint-parser": "^7.24.1",
+    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/parser": "^7.4.0",
+    "eslint-import-resolver-node": "^0.3.9",
+    "eslint-import-resolver-webpack": "^0.13.8",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-sonarjs": "^0.25.0"
+  }
+}
