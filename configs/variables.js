@@ -1,4 +1,4 @@
-const IS_DEVELOPMENT = process.env.NODE_ENV === 'development';
+const { IS_DEVELOPMENT } = require('../lib/utils/index.js')
 
 module.exports = {
   rules: {
