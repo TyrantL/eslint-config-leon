@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-leon-universal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "personal eslint config best practices",
   "main": "lib/index.js",
   "scripts": {
