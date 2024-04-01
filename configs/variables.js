@@ -48,6 +48,6 @@ module.exports = {
 
     // https://zh-hans.eslint.org/docs/latest/rules/no-use-before-define
     // Disallow the use of variables before they are defined
-    'no-use-before-define': ['error', { functions: false, classes: false, variables: true }],
+    'no-use-before-define': ['error', { functions: false, classes: true, variables: true }],
   },
 };
