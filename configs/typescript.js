@@ -1,4 +1,4 @@
-const IS_DEVELOPMENT = require('../lib/utils/index');
+const { IS_DEVELOPMENT } = require('../lib/utils/index');
 
 module.exports = {
   extends: [
